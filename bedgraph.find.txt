@@ -1,0 +1,6 @@
+1218.0.1.bedgraph	1218.0.2.bedgraph	1218.0.bed
+1218.05.1.bedgraph	1218.05.2.bedgraph	1218.05.bed
+1218.12.1.bedgraph	1218.12.2.bedgraph	1218.12.bed
+1218.24.1.bedgraph	1218.24.2.bedgraph	1218.24.bed
+1218.4.1.bedgraph	1218.4.2.bedgraph	1218.4.bed
+1218.48.1.bedgraph	1218.48.2.bedgraph	1218.48.bed
